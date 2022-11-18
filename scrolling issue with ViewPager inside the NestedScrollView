@@ -1,0 +1,3 @@
+I fixed the scrolling isssue when using ViewPager inside the NestedScrollView by:
+
+changing height child layout from constraintLayout to wrap_content.
